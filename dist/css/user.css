@@ -1,0 +1,22 @@
+#dataTables-user th{
+    text-align: center;
+    vertical-align: middle;
+}
+#dataTables-user td{
+    text-align: center;
+}
+
+#dataTables-user a{
+    cursor: pointer;
+}
+
+#detailsAlbum img{
+    width: auto;
+    height: 100px;
+}
+.profile-head{
+
+}
+.profile-details{
+
+}
