@@ -1,0 +1,10 @@
+{
+  "Status": 0,
+  "Content": {
+    "ID": 1,
+    "username": "admin",
+    "userpsd": "admin",
+    "role": 0
+  },
+  "Message": "登录成功"
+}

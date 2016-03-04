@@ -1,0 +1,68 @@
+{
+
+  "data": [
+    {
+      "UserId": "8@8.8",
+      "UserName": "456",
+      "Sex": "男",
+      "JoinedTime": "2016/2/5 上午 10:44:39",
+      "Level": "0",
+      "Status": "正常",
+      "Achor": "<a onclick='showDetails(this.id);' id='8@8.8'>详细信息</a>"
+    },
+    {
+      "UserId": "yumen@gmail",
+      "UserName": "玉门",
+      "Sex": "男",
+      "JoinedTime": "2016/2/6 上午 04:33:15",
+      "Level": "0",
+      "Status": "正常",
+      "Achor": "<a>详细信息</a>"
+    },
+    {
+      "UserId": "anna@hot.com",
+      "UserName": "安娜.卡列琳娜",
+      "Sex": "女",
+      "JoinedTime": "2016/2/7 上午 06:44:45",
+      "Level": "0",
+      "Status": "正常",
+      "Achor": "<a>详细信息</a>"
+    },
+    {
+      "UserId": "lilla@hot",
+      "UserName": "Lilla",
+      "Sex": "女",
+      "JoinedTime": "2016/2/9 上午 05:08:37",
+      "Level": "0",
+      "Status": "正常",
+      "Achor": "<a>详细信息</a>"
+    },
+    {
+      "UserId": "joe.lai.ntc.tw@gmail.com",
+      "UserName": "風之痕",
+      "Sex": "男",
+      "JoinedTime": "2016/2/10 下午 11:05:04",
+      "Level": "10",
+      "Status": "正常",
+      "Achor": "<a>详细信息</a>"
+    },
+    {
+      "UserId": "gtt@qq.com",
+      "UserName": "gtt",
+      "Sex": "男",
+      "JoinedTime": "2016/2/22 上午 11:05:05",
+      "Level": "0",
+      "Status": "正常",
+      "Achor": "<a>详细信息</a>"
+    },
+    {
+      "UserId": "gawain@hot",
+      "UserName": "Gawain",
+      "Sex": "男",
+      "JoinedTime": "2016/2/28 上午 05:39:50",
+      "Level": "0",
+      "Status": "正常",
+      "Achor": "<a>详细信息</a>"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+#dataTables-notification th{
+    text-align: center;
+    vertical-align: middle;
+}
+#dataTables-notification td{
+    text-align: center;
+}
+
+#dataTables-notification a{
+    cursor: pointer;
+}
